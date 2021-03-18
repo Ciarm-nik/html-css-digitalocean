@@ -28,6 +28,32 @@
     max-width: 100%;
 }
 
+/* terza section */
+
+.list_left {
+    margin-left: 40px;
+    border-top: 0;
+}
+
+.list_left li {
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-radius: 0;
+}
+
+   /* Quarta sezione  */
+.box_carousel img {
+    max-width: 100%;
+    display: block;
+    width: 800px;
+}
+
+.pallini {
+    color: #0039b2;
+    font-size: 30px;
+}
+
 
 
 section {
@@ -72,4 +98,8 @@ footer {
 
  .padding_bottom20 {
      padding-bottom: 20px;
+ }
+
+ .border {
+     border: 1px solid black;
  }
