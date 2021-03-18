@@ -18,6 +18,28 @@ section {
     border: 1px solid red;
 }
 
+footer {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border: 3px solid green;
+}
+
+.bg_section6 {
+    background-color: #0040bd;
+}
+
+.bg_section8 {
+    background-color: #0039b2;
+}
+
+.bg_section2_4_7 {
+    background-color: #f3f5f9;
+}
+
+.bg_footer {
+    background-color: #031c4e;
+}
+
 
 
  /* Utility class */
