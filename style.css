@@ -1,5 +1,5 @@
 [class^=col-] {
-   border: 3px solid black;
+   border: 1px solid black;
    padding-top: 20px;
 }
 
@@ -16,15 +16,23 @@
     border: 1px solid blue;
 }
 
+/* Prima sezione */
+
+.hero {
+    font-size: 50px;
+    padding-right: 90px;
+}
+
 .one_section {
     background-image: url(img/bg-banner-home.jpg);
     max-width: 100%;
 }
 
+
+
 section {
-    padding-top: 70px;
-    padding-bottom: 70px;
-    border: 1px solid red;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 footer {
@@ -56,4 +64,12 @@ footer {
 
  .color_white {
      color: white;
+ }
+
+ .color_blue {
+     color: #0039b2;
+ }
+
+ .padding_bottom20 {
+     padding-bottom: 20px;
  }
