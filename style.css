@@ -7,6 +7,15 @@
     max-width: 100px;
 }
 
+.my_navbar {
+    margin-bottom: 0;
+}
+
+.my_btn {
+    color: #0039b2;
+    border: 1px solid blue;
+}
+
 .one_section {
     background-image: url(img/bg-banner-home.jpg);
     max-width: 100%;
@@ -43,11 +52,3 @@ footer {
 
 
  /* Utility class */
-
- .h-200 {
-     height: 200px;
- }
-
- .h-500 {
-     height: 500px;
- }
