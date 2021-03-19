@@ -10,6 +10,10 @@
     margin-bottom: 0;
 }
 
+.my_navbar ul li a {
+font-family:'Inter', Helvetica,san-serif;
+}
+
 .my_btn {
     color: #0039b2;
     border: 1px solid blue;
@@ -20,11 +24,34 @@
 .hero {
     font-size: 50px;
     padding-right: 90px;
+    font-family: 'Inter', sans-serif;
 }
 
 .one_section {
     background-image: url(img/bg-banner-home.jpg);
     max-width: 100%;
+}
+
+.hero2 {
+    font-size: 24px;
+    padding-right: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.descrizione {
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.my2_btn {
+    position: relative;
+}
+
+.google {
+    max-width: 100%;
+    width: 20px;
+    position: absolute;
+    left: 5px;
 }
 
 /* terza section */
@@ -120,7 +147,7 @@ footer {
  }
 
  .color_blue {
-     color: #0039b2;
+     color: #1a78ff;
  }
 
  .color_green {
