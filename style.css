@@ -135,6 +135,32 @@ footer ul li {
     padding-top: 10px;
 }
 
+.shark img {
+    width: 50px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.footer_panel {
+    width: 300px;
+    position: fixed;
+    bottom: 0;
+    right: 100px;
+}
+
+.notifica {
+    background-color: red;
+    display: inline-block;
+    color: white;
+    padding: 3px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 40px;
+    right: 30px;
+    font-size: 12px;
+}
+
 
 
 
