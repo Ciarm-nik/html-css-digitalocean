@@ -96,6 +96,10 @@ footer {
      color: #0039b2;
  }
 
+ .color_green {
+     color: green;
+ }
+
  .padding_bottom20 {
      padding-bottom: 20px;
  }
