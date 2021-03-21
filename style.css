@@ -8,15 +8,20 @@
 
 .my_navbar {
     margin-bottom: 0;
+    background-color: white;
 }
 
 .my_navbar ul li a {
     font-family:'Inter', Helvetica,san-serif;
+    font-size: 13px;
+    padding: 15px 10px;
 }
 
 .my_btn {
-    color: #0039b2;
-    border: 1px solid blue;
+    color: #3688ff;
+    border: 1px solid #3688ff;
+    font-size: 13px;
+    font-family:'Inter', Helvetica,san-serif;
 }
 
 .ms_nav {
@@ -98,8 +103,10 @@
 }
 
 .box_car i {
-    line-height: 200px;
     text-align: center;
+    padding-right: 0;
+    padding-left: 0;
+    line-height: 300px;
 }
 
 
