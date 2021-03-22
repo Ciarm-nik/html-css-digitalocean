@@ -144,7 +144,9 @@
 }
 
 .my_panel img {
-    width: 200px;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 /* Ottava section */
@@ -171,6 +173,7 @@ footer ul li {
     right: 20px;
     background-color: #006aff;
     padding: 5px;
+    border-radius: 5px;
 }
 
 .footer_panel {
@@ -178,6 +181,8 @@ footer ul li {
     position: fixed;
     bottom: 0;
     right: 100px;
+    font-family: 'Inter', Helvetica,san-serif;
+    color: black;
 }
 
 .notifica {
@@ -187,9 +192,9 @@ footer ul li {
     padding: 3px;
     border-radius: 50%;
     position: fixed;
-    bottom: 45px;
-    right: 30px;
-    font-size: 10px;
+    bottom: 40px;
+    right: 22px;
+    font-size: 8px;
     border: 3px solid white;
 }
 
